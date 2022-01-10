@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\SistemaBancario.exe
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\SistemaBancario.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\SistemaBancario.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\SistemaBancario.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\SistemaBancario.dll
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\ref\SistemaBancario.dll
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\bin\Debug\net5.0\SistemaBancario.pdb
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.dll
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\ref\SistemaBancario.dll
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.pdb
+C:\Users\Kelly\Downloads\rodrigo\Projetos IGTI\02-Modulo\SistemaBancario\obj\Debug\net5.0\SistemaBancario.genruntimeconfig.cache
